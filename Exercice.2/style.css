@@ -1,0 +1,629 @@
+html {
+    padding: 0;
+    margin: 0;
+}
+
+h5 {
+    color: #FFFFFF #27242b #27242b #3d9f96 #322f36 #f7f7f7 #f9f9f9 #ababab #7e7e7e #ababab
+}
+
+body {
+    text-align: center;
+}
+
+.entete {
+    background-color: #27242b;
+    /* display: flex; */
+    padding-right: 20%;
+    padding-top: 3%;
+}
+
+.logo-Sayna {
+    width: 200px;
+    text-align: center;
+    margin-top: -20px;
+    padding-bottom: 20px;
+    padding-left: 20%;
+}
+
+.navgauche {
+    padding-left: 20%;
+}
+
+nav {
+    display: flex;
+    margin-left: 15%;
+    font-family: Open Sans, Arial, sans-serif;
+    font-size: 90%;
+}
+
+.nav1 {
+    color: #ffffff;
+    text-decoration: none;
+    padding-left: 5%;
+    position: relative;
+    display: inline;
+    display: flex;
+}
+
+.nav2 a {
+    color: #3d9f96;
+    float: right;
+    margin-top: -50px;
+    margin-right: 15%;
+    font-family: Open Sans, Arial, sans-serif;
+    font-size: 90%;
+}
+
+.trait {
+    background-color: #f9f9f9;
+    height: 2px;
+}
+
+.promote {
+    background-image: url("images/ordinateur.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-x: center;
+    background-position-y: 250px;
+    background-color: #27242b;
+    padding-top: 15px;
+    padding-bottom: 8%;
+}
+
+h1 {
+    color: #ffffff;
+    font-family: Raleway, Arial, sans-serif;
+}
+
+.newapp1 {
+    color: #ffffff;
+    font-size: 150%;
+}
+
+h3 {
+    color: #3d9f96;
+}
+
+.p1 {
+    color: #7e7e7e;
+}
+
+.buynow {
+    background-color: #3d9f96;
+    border-radius: 20px;
+    border-style: none;
+    color: #ffffff;
+    padding-right: 3%;
+    padding-left: 3%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-bottom: 7%;
+}
+
+.ordinateur {
+    width: 40%;
+    height: 300px;
+    padding-bottom: 0%;
+}
+
+.socials {
+    background-color: #f9f9f9;
+    margin: 30px;
+    position: relative;
+    margin-left: 20px;
+    padding: 0 25pt 0 25pt;
+}
+
+.socials img {
+    margin-left: 2%;
+}
+
+h2 {
+    color: #27242b;
+}
+
+.newapp2 {
+    font-size: 120%;
+}
+
+.p2 {
+    color: #ababab;
+}
+
+.icon28px {
+    position: relative;
+    display: flex;
+    margin-left: 31%;
+}
+
+.awesomenes {
+    background-image: url(images/map_bg.png);
+    position: relative;
+    display: flex;
+}
+
+.icongauche {
+    height: 25px;
+    margin-top: 10%;
+}
+
+.p3 {
+    color: #ababab;
+}
+
+.icondroite {
+    height: 25px;
+    margin-top: 10%;
+}
+
+.logo {
+    margin-left: -200px;
+    margin-top: 150px;
+    width: 100px;
+}
+
+.johndo {
+    background-color: #27242b;
+    padding-bottom: 3%;
+    padding-top: 3%;
+}
+
+svg {
+    margin-left: 15%;
+    margin-bottom: -4%;
+}
+
+.p4 {
+    color: #f7f7f7;
+}
+
+.john {
+    color: #3d9f96;
+}
+
+.section6 {
+    background-color: #f7f7f7;
+}
+
+.screenshots {
+    display: flex;
+    padding-left: 25%;
+    margin: 0%;
+}
+
+.imgscreen {
+    margin-left: 6%;
+    margin-right: -6%;
+}
+
+.section6 img {
+    width: 90%;
+    height: 90%;
+}
+
+.screen {
+    color: #27242b;
+    margin-right: 30%;
+    padding-left: 6%;
+}
+
+.shoots {
+    font-size: 150%;
+}
+
+.litmus {
+    position: relative;
+    display: flex;
+    padding-top: 5%;
+}
+
+.img300px {
+    width: 80%;
+    margin-left: 134%;
+    margin-top: -3%;
+}
+
+.logo2 {
+    padding-top: 60%;
+    margin-left: 90%;
+    width: 80%;
+}
+
+.litmus p {
+    padding-left: 40%;
+    margin-right: 30%;
+    color: #ababab;
+}
+
+.partdroite {
+    margin-left: -10%;
+}
+
+.litmus h3 {
+    color: #27242b;
+}
+
+.litmus h3 strong {
+    font-size: 150%;
+}
+
+.litmus button {
+    background-color: #3d9f96;
+    border-radius: 20px;
+    border-style: none;
+    color: #ffffff;
+    padding-right: 3%;
+    padding-left: 3%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-bottom: 7%;
+    margin-right: 5%;
+}
+
+.responsive {
+    position: relative;
+    display: flex;
+    padding-top: -5%;
+}
+
+.responsive img {
+    width: 16%;
+    height: 16%;
+    position: relative;
+    margin-right: 32%;
+    margin-left: 3%;
+    padding-top: 2%;
+}
+
+.responsive p {
+    margin-left: 60%;
+    color: #ababab;
+    padding-left: -3%;
+}
+
+.responsive h3 {
+    color: #27242b;
+    margin-left: 58%;
+}
+
+.responsive h3 strong {
+    font-size: 150%;
+}
+
+.responsive button {
+    background-color: #3d9f96;
+    border-radius: 20px;
+    border-style: none;
+    color: #ffffff;
+    padding-right: 4%;
+    padding-left: 4%;
+    padding-top: 1.75%;
+    padding-bottom: 1.75%;
+    margin-bottom: 7%;
+    margin-left: 45%;
+}
+
+.sayna_noir {
+    display: flex;
+    background-color: #f7f7f7;
+    padding-top: 5%;
+    padding-left: 30%;
+    padding-right: 25%;
+    margin-bottom: 3%;
+}
+
+.sayna_noir img {
+    width: 50%;
+    padding-right: 50%;
+}
+
+.sayna_noir h3 {
+    font-size: 90%;
+    color: #27242b;
+}
+
+.intro {
+    width: 70%;
+}
+
+.info {
+    width: 25%;
+}
+
+.contact {
+    width: 40%;
+}
+
+.sayna_noir p {
+    color: #ababab;
+}
+
+footer {
+    position: relative;
+    display: flex;
+    margin-left: 37%;
+}
+
+footer p {
+    margin-left: -10%;
+    margin-right: 20%;
+    font-size: 80%;
+    margin-top: -1px;
+}
+
+footer img {
+    padding-left: 1.5%;
+    padding-right: 1.5%px;
+    height: 15px;
+}
+
+@media (max-width:800px) {
+    html {
+        padding: 0;
+        margin: 0;
+    }
+    h5 {
+        color: #FFFFFF #27242b #27242b #3d9f96 #322f36 #f7f7f7 #f9f9f9 #ababab #7e7e7e #ababab
+    }
+    body {
+        text-align: center;
+    }
+    .entete {
+        background-color: #27242b;
+        /* display: flex; */
+        padding-right: 20%;
+        padding-top: 3%;
+    }
+    .logo-Sayna {
+        width: 250px;
+        text-align: center;
+        margin-top: -20px;
+        padding-bottom: 20px;
+        padding-top: 20px;
+        padding-left: 20%;
+    }
+    .navgauche {
+        padding-left: 20%;
+    }
+    nav {
+        display: none;
+    }
+    .nav2 a {
+        display: none;
+    }
+    .trait {
+        background-color: #f9f9f9;
+        height: 2px;
+    }
+    .promote {
+        background-image: url("images/ordinateur.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-position-x: center;
+        background-position-y: 250px;
+        background-color: #27242b;
+        padding-top: 15px;
+        padding-bottom: 45%;
+    }
+    h1 {
+        color: #ffffff;
+        font-family: Raleway, Arial, sans-serif;
+    }
+    .newapp1 {
+        color: #ffffff;
+        font-size: 150%;
+    }
+    .p1 {
+        color: #f7f7f7;
+    }
+    .buynow {
+        background-color: #3d9f96;
+        border-radius: 20px;
+        border-style: none;
+        color: #ffffff;
+        padding-right: 3%;
+        padding-left: 3%;
+        padding-top: 1%;
+        padding-bottom: 1%;
+        margin-bottom: 7%;
+    }
+    .socials {
+        background-color: #f9f9f9;
+        display: flex;
+        margin-right: 40%;
+    }
+    .socials img {
+        width: 13%;
+        height: 13%;
+        padding-right: 10%;
+    }
+    .socials h3 {
+        display: none;
+    }
+    h2 {
+        color: #27242b;
+    }
+    .newapp2 {
+        font-size: 120%;
+    }
+    .p2 {
+        color: #27242b;
+    }
+    .icon28px {
+        display: block;
+    }
+    .awesomenes {
+        background-image: url(images/map_bg.png);
+    }
+    .icon28px h4 {
+        margin-top: 10%;
+    }
+    .icon28px p {
+        margin-right: 50%;
+    }
+    .logo {
+        background-color: #27242b;
+        display: relative;
+        margin-top: -100%;
+        margin-left: 5%;
+    }
+    .p3 {
+        color: #ababab;
+    }
+    .johndo {
+        background-color: #27242b;
+        padding-bottom: 3%;
+        padding-top: 3%;
+    }
+    svg {
+        margin-left: 15%;
+        margin-bottom: -4%;
+    }
+    .p4 {
+        color: #f7f7f7;
+    }
+    .john {
+        color: #3d9f96;
+    }
+    .section6 {
+        background-color: #f7f7f7;
+    }
+    .screenshots {
+        display: block;
+        margin-right: 30%;
+    }
+    .section6 img {
+        width: 100%;
+        height: 60%;
+    }
+    .screen {
+        color: #27242b;
+    }
+    .shoots {
+        font-size: 150%;
+        margin-right: -40%;
+    }
+    .litmus {
+        position: relative;
+        display: flex;
+        padding-top: 5%;
+    }
+    .img300px {
+        width: 80%;
+        margin-left: 134%;
+        margin-top: -3%;
+    }
+    .logo2 {
+        padding-top: 60%;
+        margin-left: 90%;
+        width: 80%;
+    }
+    .litmus p {
+        padding-left: 40%;
+        margin-right: 30%;
+        color: #ababab;
+    }
+    .partdroite {
+        margin-left: -10%;
+    }
+    .litmus h3 {
+        color: #27242b;
+    }
+    .litmus h3 strong {
+        font-size: 150%;
+    }
+    .litmus button {
+        background-color: #3d9f96;
+        border-radius: 20px;
+        border-style: none;
+        color: #ffffff;
+        padding-right: 3%;
+        padding-left: 3%;
+        padding-top: 1%;
+        padding-bottom: 1%;
+        margin-bottom: 7%;
+        margin-right: 5%;
+    }
+    .responsive {
+        position: relative;
+        display: flex;
+        padding-top: -5%;
+    }
+    .responsive img {
+        width: 16%;
+        height: 16%;
+        position: relative;
+        margin-right: 32%;
+        margin-left: 3%;
+        padding-top: 2%;
+    }
+    .responsive p {
+        margin-left: 60%;
+        color: #ababab;
+        padding-left: -3%;
+    }
+    .responsive h3 {
+        color: #27242b;
+        margin-left: 58%;
+    }
+    .responsive h3 strong {
+        font-size: 150%;
+    }
+    .responsive button {
+        background-color: #3d9f96;
+        border-radius: 20px;
+        border-style: none;
+        color: #ffffff;
+        padding-right: 4%;
+        padding-left: 4%;
+        padding-top: 1.75%;
+        padding-bottom: 1.75%;
+        margin-bottom: 7%;
+        margin-left: 45%;
+    }
+    .sayna_noir {
+        display: flex;
+        background-color: #f7f7f7;
+        padding-top: 5%;
+        padding-left: 30%;
+        padding-right: 25%;
+        margin-bottom: 3%;
+    }
+    .sayna_noir img {
+        width: 50%;
+        padding-right: 50%;
+    }
+    .sayna_noir h3 {
+        font-size: 90%;
+        color: #27242b;
+    }
+    .intro {
+        width: 70%;
+    }
+    .info {
+        width: 25%;
+    }
+    .contact {
+        width: 40%;
+    }
+    .sayna_noir p {
+        color: #ababab;
+    }
+    footer {
+        position: relative;
+        display: flex;
+        margin-left: 37%;
+    }
+    footer p {
+        margin-left: -10%;
+        margin-right: 20%;
+        font-size: 80%;
+        margin-top: -1px;
+    }
+    footer img {
+        padding-left: 1.5%;
+        padding-right: 1.5%px;
+        height: 15px;
+    }
+}
